@@ -1,4 +1,4 @@
-# Welcome to Atmosera
+# Welcome to the Atmosera Copilot Training organization
 
 ## About Us
 
